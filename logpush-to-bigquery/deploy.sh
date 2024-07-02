@@ -4,8 +4,8 @@ SCHEMA="schema-http.json"
 # The name of the subdirectory in your bucket used for Cloudflare Logpush logs,
 # for example, "logs/". If there is no subdirectory, use ""
 DIRECTORY="logs/"
-BUCKET_NAME="examplecom-logs"
-DATASET="cloudflare_logstream"
+BUCKET_NAME="soft-sandpiper-wave"
+DATASET="blueprint_monitor"
 TABLE="cloudflare_logs"
 REGION="us-central1"
 # You probably don't need to change these values:
